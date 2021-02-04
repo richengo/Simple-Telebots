@@ -5,4 +5,6 @@ creative juices flowing. For example, Telegram Bots may come in handy when tryin
 
 ## Features
 
-- **echobot.py** - A bot that echoes whatever text input by the user.
+- **echobot.py** - Bot that echoes whatever text input by the user.
+- **todobot.py** - Bot that helps to keep track of a to-do list.
+- **dbhelper.py** - Script to add/remove/store information for multiple users in a sqlite database
